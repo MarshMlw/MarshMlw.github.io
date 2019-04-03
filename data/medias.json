@@ -1,0 +1,150 @@
+{
+    "works": [{
+            "title": "Cat",
+            "id": 0,
+            "url": "./img/works/animation/chat.gif",
+            "cat": "animation",
+            "planche": "none"
+        },
+        {
+            "title": "Bounce",
+            "id": 1,
+            "url": "./img/works/animation/rebond_4.gif",
+            "cat": "animation",
+            "planche": "none"
+        },
+        {
+            "title": "Friends don't lie",
+            "id": 2,
+            "url": "./img/works/illustration/eleven_friendsdontlie.svg",
+            "cat": "illustration",
+            "planche": "none"
+        },
+        {
+            "title": "Luck",
+            "id": 3,
+            "url": "./img/works/illustration/fuck_luck.svg",
+            "cat": "illustration",
+            "planche": "none"
+        },
+        {
+            "title": "Stoned Art Japan",
+            "id": 4,
+            "url": "./img/works/illustration/logo_japan_stoned_art_2.svg",
+            "cat": "illustration",
+            "planche": "none"
+        },
+        {
+            "title": "MarshMlw",
+            "id": 5,
+            "url": "./img/works/illustration/logo_mlw_2.svg",
+            "cat": "illustration",
+            "planche": "none"
+        },
+        {
+            "title": "Original Recipe",
+            "id": 6,
+            "url": "./img/works/illustration/tear_originalrecipe_stonedart.svg",
+            "cat": "illustration",
+            "planche": "none"
+        },
+        {
+            "title": "Pierre et le Loup",
+            "id": 7,
+            "url": "./img/works/print/affiche_pierreetleloup.jpg",
+            "cat": "print",
+            "planche": "none"
+        },
+        {
+            "title": "Laval Badass Night IV",
+            "id": 8,
+            "url": "./img/works/print/banniere_stonedprod_lavalbadassnight01.jpg",
+            "cat": "print",
+            "planche": "none"
+        },
+        {
+            "title": "MiamViet",
+            "id": 9,
+            "url": "./img/works/print/flyer_miamviet.jpg",
+            "cat": "print",
+            "planche": "none"
+        },
+        {
+            "title": "Stoned Art Design",
+            "id": 10,
+            "url": "./img/works/print/flyer_stoneprod_lemans.jpg",
+            "cat": "print",
+            "planche": "none"
+        },
+        {
+            "title": "Club Aéromodélisme",
+            "id": 11,
+            "url": "./img/works/print/logo_club_aero.svg",
+            "cat": "print",
+            "planche": "./img/works/print/planche/planche_club_aero.jpg"
+        },
+        {
+            "title": "Dauphin Mayennais",
+            "id": 12,
+            "url": "./img/works/print/logo_dauphin_may.svg",
+            "cat": "print",
+            "planche": "./img/works/print/planche/plance_dauphin_may.jpg"
+        },
+        {
+            "title": "MsKeen Tattoo",
+            "id": 13,
+            "url": "./img/works/print/logo_mskeen02.svg",
+            "cat": "print",
+            "planche": "./img/works/print/planche/planche_mskeen.jpg"
+        },
+        {
+            "title": "RedBox",
+            "id": 14,
+            "url": "./img/works/print/logo_redbox01.svg",
+            "cat": "print",
+            "planche": "./img/works/print/planche/planche_redbox.jpg"
+        },
+        {
+            "title": "Valhalla Piercing",
+            "id": 15,
+            "url": "./img/works/print/logo_valhallapiercing.svg",
+            "cat": "print",
+            "planche": "./img/works/print/planche/planche_valhalla.jpg"
+        },
+        {
+            "title": "Projet d'étude Malika Favre",
+            "id": 16,
+            "url": "./img/works/web/illustration_malikafavre_logo_ondulation.svg",
+            "cat": "web",
+            "planche": "./img/works/web/planche/planche_mf.jpg"
+        },
+        {
+            "title": "Ma Vraie Nature",
+            "id": 17,
+            "url": "./img/works/web/logo_mvn_typo.svg",
+            "cat": "web",
+            "planche": "./img/works/web/planche/planche_mvn.jpg"
+        },
+        {
+            "title": "Projet d'étude médiathèque de la Philarmonie de Paris",
+            "id": 18,
+            "url": "./img/works/web/logo_philharmonie_paris.svg",
+            "cat": "web",
+            "planche": "./img/works/web/planche/planche_media.jpg"
+        },
+        {
+            "title": "Projet d'étude Thé Calin V1",
+            "id": 19,
+            "url": "./img/works/web/logo_thecalin_v1.svg",
+            "cat": "web",
+            "planche": "./img/works/web/planche/planche_thecalin_v1.jpg"
+        },
+        {
+            "title": "Projet d'étude Thé Calin V2",
+            "id": 20,
+            "url": "./img/works/web/logo_thecalin_v2.svg",
+            "cat": "web",
+            "planche": "./img/works/web/planche/planche_thecalin_v2.jpg"
+        }
+    ]
+}
