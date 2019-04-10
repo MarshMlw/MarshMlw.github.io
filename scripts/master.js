@@ -75,7 +75,10 @@ $(document).ready(function () {
 
             console.log(request);
 
-            var jqxhr = $.getJSON("https://api.myjson.com/bins/t6vre", function (data) {
+            // AJAX Request (Production Version)
+            var jqxhr = $.getJSON("./data/medias.json", function (data) {
+
+            //var jqxhr = $.getJSON("https://api.myjson.com/bins/t6vre", function (data) {
 
                 for (i = 0; i < data.works.length; i++) {
 

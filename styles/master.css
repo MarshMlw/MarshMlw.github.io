@@ -106,6 +106,9 @@ textarea {
   letter-spacing: 2.5px;
   color: #000000; }
 
+.bottom-nav a {
+  text-decoration: none; }
+
 .legal {
   font-family: "KGSorryNotSorry", sans-serif;
   font-size: 20px;
