@@ -17,7 +17,7 @@
         },
         {
             "title": "Stoned Art Japan",
-            "id": 4,
+            "id": 2,
             "logo": "./img/works/illustration/logo_japan_stoned_art_2.svg",
             "cat": "illustration",
             "planche": null,
@@ -25,7 +25,7 @@
         },
         {
             "title": "MarshMlw",
-            "id": 5,
+            "id": 3,
             "logo": "./img/works/illustration/logo_mlw_2.svg",
             "cat": "illustration",
             "planche": null,
@@ -33,7 +33,7 @@
         },
         {
             "title": "Original Recipe",
-            "id": 6,
+            "id": 4,
             "logo": "./img/works/illustration/tear_originalrecipe_stonedart.svg",
             "cat": "illustration",
             "planche": null,
@@ -41,7 +41,7 @@
         },
         {
             "title": "Pierre et le Loup",
-            "id": 7,
+            "id": 5,
             "logo": "./img/works/print/affiche_pierreetleloup.jpg",
             "cat": "print",
             "planche": null,
@@ -49,7 +49,7 @@
         },
         {
             "title": "Laval Badass Night IV",
-            "id": 8,
+            "id": 6,
             "logo": "./img/works/print/banniere_stonedprod_lavalbadassnight01.jpg",
             "cat": "print",
             "planche": null,
@@ -57,7 +57,7 @@
         },
         {
             "title": "MiamViet",
-            "id": 9,
+            "id": 7,
             "logo": "./img/works/print/flyer_miamviet.jpg",
             "cat": "print",
             "planche": null,
@@ -65,7 +65,7 @@
         },
         {
             "title": "Stoned Art Design",
-            "id": 10,
+            "id": 8,
             "logo": "./img/works/print/flyer_stoneprod_lemans.jpg",
             "cat": "print",
             "planche": null,
@@ -73,7 +73,7 @@
         },
         {
             "title": "Club Aéromodélisme",
-            "id": 11,
+            "id": 9,
             "logo": "./img/works/print/logo_club_aero.svg",
             "cat": "print",
             "planche": "./img/works/print/planche/planche_club_aero.jpg",
@@ -81,15 +81,15 @@
         },
         {
             "title": "Dauphin Mayennais",
-            "id": 12,
+            "id": 10,
             "logo": "./img/works/print/logo_dauphin_may.svg",
             "cat": "web",
             "planche": "./img/works/web/planche/planche_dm.jpg",
-            "url": "Test"
+            "url": null
         },
         {
             "title": "Valhalla Piercing",
-            "id": 15,
+            "id": 11,
             "logo": "./img/works/print/logo_valhallapiercing.svg",
             "cat": "print",
             "planche": "./img/works/print/planche/planche_valhalla.jpg",
@@ -97,27 +97,27 @@
         },
         {
             "title": "Projet d'étude Malika Favre",
-            "id": 16,
+            "id": 12,
             "logo": "./img/works/web/illustration_malikafavre_logo_ondulation.svg",
             "cat": "web",
             "planche": "./img/works/web/planche/planche_mf.jpg",
-            "url": "test"
+            "url": "https://marshmlw.github.io/malikafavre/"
         },
         {
             "title": "Ma Vraie Nature",
-            "id": 17,
+            "id": 13,
             "logo": "./img/works/web/logo_mvn_typo.svg",
             "cat": "web",
             "planche": "./img/works/web/planche/planche_mvn.jpg",
-            "url": "test"
+            "url": null
         },
         {
             "title": "Projet d'étude Thé Calin V1",
-            "id": 19,
+            "id": 14,
             "logo": "./img/works/web/logo_thecalin_v1.svg",
             "cat": "web",
             "planche": "./img/works/web/planche/planche_thecalin_v1.jpg",
-            "url": "test"
+            "url": "https://marshmlw.github.io/thecalin/"
         }
     ]
 }
