@@ -1,3 +1,21 @@
+
+@media screen and (max-width: 1401px) {
+
+    #displayed-project.planche {
+
+        .linkToMaquette {
+            width: 100%;
+            padding: 15px;
+            margin-left: -15px;
+    
+            a {
+                font-size: 20px;
+                padding: 5px;
+            }
+        }
+    }
+}
+
 @media screen and (max-width: 1251px) {
 
     .module-wrapper {
@@ -218,6 +236,20 @@
 
 @media screen and (max-width: 801px) {
 
+    #displayed-project.planche {
+        
+        .linkToMaquette {
+            width: 100%;
+            padding: 15px;
+            margin-left: -15px;
+    
+            a {
+                font-size: 16px;
+                padding: 5px;
+            }
+        }
+    }
+
     .module-wrapper {
         width: 90%;
         margin: 0 auto;
@@ -301,5 +333,26 @@
 
     .legal {
         font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+
+    #displayed-project.planche {
+
+        .linkToMaquette {
+            width: 100%;
+            padding: 15px;
+            margin-left: -20px;
+    
+            a {
+                font-size: 12px;
+                padding: 5px;
+            }
+        }
+
+        img {
+            margin-top: 10px;
+        }
     }
 }

@@ -191,11 +191,33 @@ textarea {
   margin: 0 auto;
   background-color: #fff;
   padding: 20px;
-  overflow: scroll; }
+  overflow: scroll;
+  position: relative; }
   #displayed-project.planche img {
     width: 100%;
     height: auto;
     object-fit: initial; }
+  #displayed-project.planche .linkToMaquette {
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    padding: 30px;
+    margin-left: -15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.30s ease-in-out; }
+    #displayed-project.planche .linkToMaquette a {
+      font-family: "KGSorryNotSorry", sans-serif;
+      text-decoration: none;
+      color: #000000;
+      font-size: 24px;
+      background-color: #fff100;
+      padding: 10px; }
+
+.hvr-ripple-out:before {
+  border: #fff100 solid 6px !important; }
 
 #close {
   position: absolute;
