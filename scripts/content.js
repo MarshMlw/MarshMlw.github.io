@@ -71,10 +71,10 @@ $(document).ready(function () {
     // Works Display
 
     // AJAX Request (Production Version)
-    //var jqxhr = $.getJSON("./data/medias.json", function (data) {
+    var jqxhr = $.getJSON("./data/medias.json", function (data) {
 
     // AJAX Request (Dev Version)
-    var jqxhr = $.getJSON("https://api.myjson.com/bins/kuur2", function (data) {
+    //var jqxhr = $.getJSON("https://api.myjson.com/bins/kuur2", function (data) {
 
         for (i = (data.works.length) - 1; i > -1; i--) {
 
