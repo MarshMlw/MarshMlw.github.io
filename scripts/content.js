@@ -26,17 +26,16 @@ $(document).ready(function () {
 
         this.wW = $('<div>').attr({
             id: 'displayed-project'
-        }).addClass('planche');
+        });
 
         if (url != null) {
+            this.wLinkToProject = $('<div>').addClass('linkToMaquette');
 
-        this.wLinkToProject = $('<div>').addClass('linkToMaquette');
-        this.wLinkToProject.append($('<a>').attr({
-            href: url,
-            alt: title,
-            class: "hvr-ripple-out"
-        }).append('La maquette intégrée'));
-
+            this.wLinkToProject.append($('<a>').attr({
+                href: url,
+                alt: title,
+                class: "hvr-ripple-out"
+            }).append('La maquette intégrée'));
 
         } else {
 
@@ -44,7 +43,7 @@ $(document).ready(function () {
         }
 
         if (planche != null) {
-
+            this.wW.addClass('planche');
             this.wPlanche = $('<img>').attr({
                 src: planche,
                 alt: title
@@ -74,7 +73,7 @@ $(document).ready(function () {
     var jqxhr = $.getJSON("./data/medias.json", function (data) {
 
     // AJAX Request (Dev Version)
-    //var jqxhr = $.getJSON("https://api.myjson.com/bins/kuur2", function (data) {
+    //var jqxhr = $.getJSON("https://api.myjson.com/bins/h3zta", function (data) {
 
         for (i = (data.works.length) - 1; i > -1; i--) {
 
