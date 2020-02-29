@@ -1,0 +1,334 @@
+{
+    "the-calin" : 
+    {
+        "public" : true,
+        "category" : "web",
+        "title" : "Thé Calin",
+        "slug" : "the-calin",
+        "type" : "Projet d'étude",
+        "url" : null,
+        "date" : "2018-2019",
+        "content" : "<p>Ce projet d'étude avait pour but de proposer une refonte graphique pour un salon de thé fictif afin de moderniser celui ci. J'ai réalisé cette proposition dans le cadre de ma formation de WebDesigner.</p><p>J'ai choisis d'orienter cette refonte vers un publique principalement féminin.</p><p>Réalisation de l'identité visuelle sur Adobe Illustrator.<br> Élaboration des MockUp sur Adobe Photoshop.<br> Wireframe & maquette réaliser sur Adobe XD.</p>",
+        "colors" :
+        [
+            "#F28F83",
+            "#315265",
+            "#D8D8D6"
+        ],
+        "images" : {
+            "logo" : "./data/projects/the-calin/images/logo.svg",
+            "top" : "./data/projects/the-calin/images/top.jpg",
+            "left" : "./data/projects/the-calin/images/left.jpg",
+            "right" : "./data/projects/the-calin/images/right.jpg"
+        },
+        "fonts" : {
+            "main" : {
+                "name" : "abhaya-libre",
+                "slug" : "./data/projects/the-calin/fonts/abhaya-libre/abhaya-libre.ttf"
+            },
+            "secondary" : {
+                "name" : "hk-grotesk",
+                "slug" : "./data/projects/the-calin/fonts/hk-grotesk/hk-grotesk.ttf"
+            }
+        }
+    },
+    "les-affranchis" : {
+        "public" : false,
+        "category" : "web",
+        "slug": "les-affranchis",
+        "title" : "Les Affranchis",
+        "type" : "Projet d'étude",
+        "url" : null,
+        "date" : "2018-2019",
+        "content" : "<p>Dans un cadre de ma formation, pour un projet de groupe en collaboration avec des étudiants en architectures et en graphisme. Nous étions en charge de la mise en place de l'exposition (création du lieu de l'exposition par les étudiants en architecture) et de la communication print & web autour du vernissage de l'exposition des Affranchis ayant pour thème : \"container\".</p><p>En collaboration avec les différents corps de métier du groupe, j'étais en charge avec ma camarade de la réalisation du wireframe, de la maquette graphique en fonction des éléments fournis par les infographistes et de l'intégration de celle-ci.</p>",
+        "colors" : [
+            "#26AC4F",
+            "#EA2F2A",
+            "#008384"
+        ],
+        "images": {
+            "logo": "./data/projects/les-affranchis/images/logo.svg",
+            "top": "./data/projects/les-affranchis/images/top.jpg",
+            "left": "./data/projects/les-affranchis/images/left.jpg",
+            "right": "./data/projects/les-affranchis/images/right.jpg"
+        },
+        "fonts": {
+            "main": {
+                "name": "dker-poster",
+                "slug": "./data/projects/les-affranchis/fonts/dker-poster/dker-poster.ttf"
+            },
+            "secondary": {
+                "name": "open-sans",
+                "slug": "./data/projects/les-affranchis/fonts/open-sans/open-sans.ttf"
+            }
+        }
+    },
+    "malika-favre" : {
+        "public" : true,
+        "category" : "web",
+        "slug": "malika-favre",
+        "title" : "Malika Favre",
+        "type" : "Projet d'étude",
+        "url" : null,
+        "date" : "2018-2019",
+        "content" : "<p>Réalisation d'un \"fan site\" sur l'illustratrice : Malika Favre®.<br> L'exercice consistait a faire des recherches sur son parcours, son style graphique, sa carrière, ses réalisations et de réaliser une maquette en son honneur.</p><p>Toute les illustrations utilisées pour la réalisation de ce site sont la propriété exclusive de Malika Favre®.</p>",
+        "colors" : [
+            "#FEDB07",
+            "#E3181B",
+            "#2C3288"
+        ],
+        "images" : {
+            "logo": "./data/projects/malika-favre/images/logo.svg",
+            "top" : "./data/projects/malika-favre/images/top.jpg",
+            "left" : "./data/projects/malika-favre/images/left.jpg",
+            "right" : "./data/projects/malika-favre/images/right.jpg"
+        },
+        "fonts" : {
+            "main" : {
+                "name" : "open-sans",
+                "slug" : "./data/projects/malika-favre/fonts/open-sans/open-sans.ttf"
+            },
+            "secondary": null
+        }
+    },
+    "ma-vraie-nature" : {
+        "public" : true,
+        "category" : "web",
+        "slug": "ma-vraie-nature",
+        "title" : "Ma Vraie Nature",
+        "type" : "Projet d'étude",
+        "url" : null,
+        "date" : "2019",
+        "content" : "<p>Ce projet de refonte graphique est le recueille des besoins de la dirigeante de Ma Vraie Nature®, dans le but de moderniser son site marchand pour le reprendre plus attractif tout en valorisant les produits proposés. Une partie Web ainsi qu'une partie Print (Flyer, carte de visite, flocage véhicule) à était réaliser pour toujours plus de visibilité.</p><p>Réalisation de l'identité visuelle sur Adobe Illustrator.<br> Élaboration des MockUp sur Adobe Photoshop.<br> Wireframe & maquette réaliser sur Adobe XD.</p>",
+        "colors" : [
+            "#78B9CD",
+            "#E5E5E5",
+            "#FFFFFF"
+        ],
+        "images" : {
+            "logo": "./data/projects/ma-vraie-nature/images/logo.svg",
+            "top" : "./data/projects/ma-vraie-nature/images/top.jpg",
+            "left" : "./data/projects/ma-vraie-nature/images/left.jpg",
+            "right" : "./data/projects/ma-vraie-nature/images/right.jpg"
+        },
+        "fonts" : {
+            "main" : {
+                "name" : "playfair-display",
+                "slug" : "./data/projects/ma-vraie-nature/fonts/playfair-display/playfair-display.ttf"
+            },
+            "secondary" : {
+                "name" : "open-sans",
+                "slug" : "./data/projects/ma-vraie-nature/fonts/open-sans/open-sans.ttf"
+            }
+        }
+    },
+    "dauphins-mayennais" : {
+        "public" : true,
+        "category" : "web",
+        "slug": "dauphins-mayennais",
+        "title" : "Dauphins Mayennais",
+        "type" : "Refonte Graphique",
+        "url" : null,
+        "date" : "2019",
+        "content" : "<p>Les Dauphins Mayennais, souhaitait rendre le site du club pour attractif. Les objectifs étaient que les membres et les futurs adhérents puissent trouver les informations comme par exemple les dernières actualités, l'inscriptions au club et les séances d'entrainements. Une boutique a été également penser et développer pour permettre aux supporters et aux adhérents de porter les couleurs du club durant les compétitions.</p><p>Réalisation de l'identité visuelle sur Adobe Illustrator.<br> Élaboration des MockUp sur Adobe Photoshop.<br> Wireframe & maquette réaliser sur Adobe XD.</p>",
+        "colors" : [
+            "#AACFD8",
+            "#206475",
+            "#3096AF"
+        ],
+        "images" : {
+            "logo": "./data/projects/dauphins-mayennais/images/logo.svg",
+            "top" : "./data/projects/dauphins-mayennais/images/top.jpg",
+            "left" : "./data/projects/dauphins-mayennais/images/left.jpg",
+            "right" : "./data/projects/dauphins-mayennais/images/right.jpg"
+        },
+        "fonts" : {
+            "main" : {
+                "name" : "crapaud",
+                "slug" : "./data/projects/dauphins-mayennais/fonts/crapaud/crapaud.ttf"
+            },
+            "secondary" : {
+                "name" : "open-sans",
+                "slug" : "./data/projects/dauphins-mayennais/fonts/open-sans/open-sans.ttf"
+            }
+        }
+    },
+    "ecole-togo" : {
+        "public" : false,
+        "category" : "web",
+        "slug": "ecole-togo",
+        "title" : "Ecole Togo",
+        "type" : "Création d'un site associatif, bénévolat",
+        "url" : null,
+        "date" : "2020",
+        "content" : "<p>Réalisation d'un WordPress Onepage pour l'association caritative [insertAssociatonName]. L'association a pour but de récolter des fonds afin de construire aux enfants du village de [insertNomDuVillage] une école et également un point d'accès a l'eau potable pour tout les habitants. Mon rôle fût de prendre en charge, à titre bénévole, la réalisation de la charte graphique, la création du Wireframe et de la maquette ainsi que le suivi du plan de communication mit en place avec l'équipe de bénévoles.</p><p>Réalisation de l'identité visuelle sur Adobe Illustrator.<br> Élaboration des MockUp sur Adobe Photoshop.<br>Wireframe & maquette réaliser sur Figma.</p>",
+        "colors" : [
+            "#FFA234",
+            "#CB1E1D",
+            "#3AB3AD"
+        ],
+        "images" : {
+            "logo": "./data/projects/ecole-togo/images/logo.svg",
+            "top" : "./data/projects/ecole-togo/images/top.jpg",
+            "left" : "./data/projects/ecole-togo/images/left.jpg",
+            "right" : "./data/projects/ecole-togo/images/right.jpg"
+        },
+        "fonts" : {
+            "main" : {
+                "name" : "nunito-sans",
+                "slug" : "./data/projects/ecole-togo/fonts/unito-sans/unito-sans.ttf"
+            },
+            "secondary" : {
+                "name" : "nunito",
+                "slug" : "./data/projects/ecole-togo/fonts/nunito/nunito.ttf"
+            }
+        }
+    }, 
+    "vahalla-piercing" : {
+        "public" : true,
+        "category" : "print",
+        "slug": "vahalla-piercing",
+        "title" : "Vahalla Piercing",
+        "type" : "Charte Graphique",
+        "url" : null,
+        "date" : "2017",
+        "content" : "<p>Élaboration de la charte graphique pour un perceur installé sur Mayenne (53) autour d'un thème \"nordique\". Suite à cela, création du logo tout en restant dans l'univers des \"Vikings\".</p><p>Déclinaison du logo sur différents supports, cartes de visites, carte cadeau de nöel, flocage vitrine…</p><p>Réalisation du logo sur Abode Illustrator.<br> Réalisation carte de visite et carte cadeau sur InDesign.<br> Élaboration MockUp vitrine sur Photoshop.</p>",
+        "colors" : [
+            "#000000",
+            "#FFFFFF"
+        ],
+        "images" : {
+            "logo": "./data/projects/vahalla-piercing/images/logo.svg",
+            "top" : "./data/projects/vahalla-piercing/images/top.jpg",
+            "left" : "./data/projects/vahalla-piercing/images/left.jpg",
+            "right" : "./data/projects/vahalla-piercing/images/right.jpg"
+        },
+        "fonts" : {
+            "main" : {
+                "name" : "vikings",
+                "slug" : "./data/projects/vahalla-piercing/fonts/vikings/vikings.ttf"
+            },
+            "secondary" : {
+                "name" : "impact",
+                "slug" : "./data/projects/vahalla-piercings/fonts/impact/impact.ttf"
+            }
+        }
+    },
+    "pierre-et-le-loup" : {
+        "public" : false,
+        "category" : "print",
+        "slug": "pierre-et-le-loup",
+        "title" : "Pierre et le Loup",
+        "type" : "Projet d'étude",
+        "url" : null,
+        "date" : "2012",
+        "content" : "<p>Dans le cadre d'une évaluation pour l'obtention de mon Baccalauréat, je devais produire une affiche selon un cahier des charges déjà définit.</p><p>Déclinaison de l'idée sur différents supports (carte postal, marque page..) tout en conservant l'identité visuelle et l'ambiance de l'affiche.</p><p>Réalisation de l'infographie sur Adobe Illustrator.<br> Mise en page de l'affiche sur Adobe InDesign.<br> MockUp réaliser sur Adobe Photoshop.</p>",
+        "colors" : [
+            "#E40613",
+            "#FEDC00",
+            "#1D1D1B"
+        ],
+        "images" : {
+            "logo": "./data/projects/pierre-et-le-loup/images/logo.svg",
+            "top" : "./data/projects/pierre-et-le-loup/images/top.jpg",
+            "left" : "./data/projects/pierre-et-le-loup/images/left.jpg",
+            "right" : "./data/projects/pierre-et-le-loup/images/right.jpg"
+        },
+        "fonts" : {
+            "main" : {
+                "name" : "caflish-script",
+                "slug" : "./data/projects/pierre-et-le-loup/fonts/caflish-script/caflish-script.ttf"
+            },
+            "secondary" : {
+                "name" : "raleway",
+                "slug" : "./data/projects/pierre-et-le-loup/fonts/raleway/raleway.ttf"
+            }
+        }
+    },
+    "relais-saint-medard" : {
+        "public" : false,
+        "category" : "print",
+        "slug": "relais-saint-medard",
+        "title" : "Relais Saint-Médard",
+        "type" : "Charte Graphique",
+        "url" : null,
+        "date" : "2019",
+        "content" : "<p>Élaboration et mise en place d'une charte graphique pour un restaurant. J'ai choisi des tons vert, marrons, pour évoquer le coté bio de la nourriture que les dirigeant de l'établissement proposent. J'ai donc réalisé le logo du restaurant ainsi qu'un flyer en l'honneur de l'ouverture du restaurant. Déclinaison de l'idée sur carte de visite et carte (menu).</p><p>Réalisation du logo sur Adobe Illustrator.<br> Réalisation carte de visite et carte cadeau sur Adobe InDesign.<br> Élaboration des MockUp sur Adobe Photoshop.</p>",
+        "colors" : [
+            "#3D2516",
+            "#0A8149",
+            "#D8D8D6"
+        ],
+        "images" : {
+            "logo": "./data/projects/relais-saint-medard/images/logo.svg",
+            "top" : "./data/projects/relais-saint-medard/images/top.jpg",
+            "left" : "./data/projects/relais-saint-medard/images/left.jpg",
+            "right" : "./data/projects/relais-saint-medard/images/right.jpg"
+        },
+        "fonts" : {
+            "main" : {
+                "name" : "nunito",
+                "slug" : "./data/projects/relais-saint-medard/fonts/nunito/nunito.ttf"
+            },
+            "secondary" : {
+                "name" : "chelsa",
+                "slug" : "./data/projects/relais-saint-medard/fonts/chelsa/chelsa.ttf"
+            }
+        }
+    },
+    "mastermind": {
+        "public": false,
+        "category": "web",
+        "slug": "mastermind",
+        "title": "Mastermind",
+        "type": "Interface d'application",
+        "url": null,
+        "date": "2020",
+        "content": "<p>Projet personnelle dans le but de découvrir et me former au langage de programmation Javascript.</p><p>Réalisation de l'identité visuelle (illustrations) sur Adobe Illustrator.<br> Élaboration des MockUp sur Adobe Photoshop.<br> Maquette graphique & composant réalisés sur Abode XD.</p>",
+        "colors": [
+            "#3A5194",
+            "#000000",
+            "#FFFFFF"
+        ],
+        "images": {
+            "logo": "./data/projects/mastermind/images/logo.svg",
+            "top": "./data/projects/mastermind/images/top.jpg",
+            "left": "./data/projects/mastermind/images/left.jpg",
+            "right": "./data/projects/mastermind/images/right.jpg"
+        },
+        "fonts": {
+            "main": {
+                "name": "quicksand",
+                "slug": "./data/projects/mastermind/fonts/quicksand/quicksand.ttf"
+            },
+            "secondary": null
+        }
+    },
+    "aeromodelisme-53": {
+        "public": false,
+        "category": "print",
+        "slug": "aeromodelisme-53",
+        "title": "Aéromodélisme 53",
+        "type": "Charte Graphisque",
+        "url": null,
+        "date": "2012",
+        "content": "<p>Élaboration de la charte graphique du club. Les membres désiraient un design simple et sobre dans diverse nuances de gris. Déclinaison du logo sur différents supports, mais principalement sur des textiles (polo, t-shirts, sweat-shirts, casquettes..).</p><p>Flocage véhicule d'un des membres du club, cette demande est a l'initiative de celui ci. Une prestation supplémentaire qui n'ont pas été au frais du club, car demande personnel.</p><p>Réalisation du logo sur Adobe Illustrator.<br> Élaboration des MockUp sur Adobe Photoshop.</p>",
+        "colors": [
+            "#F28F83",
+            "#C2C8CF"
+        ],
+        "images": {
+            "logo": "./data/projects/aeromodelisme-53/images/logo.svg",
+            "top": "./data/projects/aeromodelisme-53/images/top.jpg",
+            "left": "./data/projects/aeromodelisme-53/images/left.jpg",
+            "right": "./data/projects/aeromodelisme-53/images/right.jpg"
+        },
+        "fonts": {
+            "main": {
+                "name": "century-gothic",
+                "slug": "./data/projects/aeromodelisme-53/fonts/century-gothic/century-gothic.ttf"
+            },
+            "secondary": null
+        }
+    }
+}
