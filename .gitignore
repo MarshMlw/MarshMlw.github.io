@@ -3,6 +3,5 @@
 /node_modules
 /old
 /ressources
-gulpfile.js
 package-lock.json
 package.json
