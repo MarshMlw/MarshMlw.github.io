@@ -1,10 +1,10 @@
 {
-    "the-calin" : 
+    "theCalin" : 
     {
         "public" : true,
         "category" : "web",
         "title" : "Thé Calin",
-        "slug" : "the-calin",
+        "slug" : "theCalin",
         "type" : "Projet d'étude",
         "url" : null,
         "date" : "2018-2019",
@@ -32,10 +32,10 @@
             }
         }
     },
-    "les-affranchis" : {
+    "lesAffranchis" : {
         "public" : false,
         "category" : "web",
-        "slug": "les-affranchis",
+        "slug": "lesAffranchis",
         "title" : "Les Affranchis",
         "type" : "Projet d'étude",
         "url" : null,
@@ -63,10 +63,10 @@
             }
         }
     },
-    "malika-favre" : {
+    "malikaFavre" : {
         "public" : true,
         "category" : "web",
-        "slug": "malika-favre",
+        "slug": "malikaFavre",
         "title" : "Malika Favre",
         "type" : "Projet d'étude",
         "url" : null,
@@ -91,10 +91,10 @@
             "secondary": null
         }
     },
-    "ma-vraie-nature" : {
+    "maVraieNature" : {
         "public" : true,
         "category" : "web",
-        "slug": "ma-vraie-nature",
+        "slug": "maVraieNature",
         "title" : "Ma Vraie Nature",
         "type" : "Projet d'étude",
         "url" : null,
@@ -122,10 +122,10 @@
             }
         }
     },
-    "dauphins-mayennais" : {
+    "dauphinsMayennais" : {
         "public" : true,
         "category" : "web",
-        "slug": "dauphins-mayennais",
+        "slug": "dauphinsMayennais",
         "title" : "Dauphins Mayennais",
         "type" : "Refonte Graphique",
         "url" : null,
@@ -153,10 +153,10 @@
             }
         }
     },
-    "ecole-togo" : {
+    "ecoleTogo" : {
         "public" : false,
         "category" : "web",
-        "slug": "ecole-togo",
+        "slug": "ecoleTogo",
         "title" : "Ecole Togo",
         "type" : "Création d'un site associatif, bénévolat",
         "url" : null,
@@ -184,10 +184,10 @@
             }
         }
     }, 
-    "vahalla-piercing" : {
+    "vahallaPiercing" : {
         "public" : true,
         "category" : "print",
-        "slug": "vahalla-piercing",
+        "slug": "vahallaPiercing",
         "title" : "Vahalla Piercing",
         "type" : "Charte Graphique",
         "url" : null,
@@ -214,10 +214,10 @@
             }
         }
     },
-    "pierre-et-le-loup" : {
+    "pierreEtLeLoup" : {
         "public" : false,
         "category" : "print",
-        "slug": "pierre-et-le-loup",
+        "slug": "pierreEtLeLoup",
         "title" : "Pierre et le Loup",
         "type" : "Projet d'étude",
         "url" : null,
@@ -245,10 +245,10 @@
             }
         }
     },
-    "relais-saint-medard" : {
+    "relaisSaintMedard" : {
         "public" : false,
         "category" : "print",
-        "slug": "relais-saint-medard",
+        "slug": "relaisSaintMedard",
         "title" : "Relais Saint-Médard",
         "type" : "Charte Graphique",
         "url" : null,
@@ -304,10 +304,10 @@
             "secondary": null
         }
     },
-    "aeromodelisme-53": {
+    "aeromodelisme53": {
         "public": false,
         "category": "print",
-        "slug": "aeromodelisme-53",
+        "slug": "aeromodelisme53",
         "title": "Aéromodélisme 53",
         "type": "Charte Graphisque",
         "url": null,
