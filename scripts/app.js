@@ -66,8 +66,7 @@ var app = new Vue({
                         {{ this.project.type }} | {{ this.project.date }}
                     </div>
 
-                    <div class="content">
-                        {{ this.project.content }}
+                    <div v-html="project.content" class="content">
                     </div>
                 </div>
             </div>
