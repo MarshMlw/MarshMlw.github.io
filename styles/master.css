@@ -345,12 +345,18 @@ nav ul {
 
 .uk-card-default {
   max-height: 500px;
-  overflow: hidden; }
-  .uk-card-default img {
-    transition: 0.15s ease-in-out;
-    filter: saturate(0%); }
-    .uk-card-default img:hover {
-      filter: saturate(100%); }
+  overflow: hidden;
+  /*
+    img {
+
+        transition: 0.15s ease-in-out;
+        filter: saturate(0%);
+
+        &:hover {
+            filter: saturate(100%);
+        }
+    }
+    */ }
 
 #about {
   margin-bottom: 200px; }
