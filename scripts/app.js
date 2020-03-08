@@ -115,7 +115,7 @@ var app = new Vue({
                             <p v-bind:style="{fontFamily:project.fonts.main.name}">
                                 {{ this.project.fonts.main.name }}
                             </p>
-                            <span>
+                            <span v-bind:style="{fontFamily:project.fonts.main.name}">
                                 ABCDEFGHIJKLMNOPQRSTUVWYYZ<br>
                                 abcdefghijklmnopqrstuvwxyz<br>
                                 0123456789
@@ -126,7 +126,7 @@ var app = new Vue({
                             <p v-bind:style="{fontFamily:project.fonts.secondary.name}">
                                 {{ this.project.fonts.secondary.name }}
                             </p>
-                            <span>
+                            <span v-bind:style="{fontFamily:project.fonts.secondary.name}">
                                 ABCDEFGHIJKLMNOPQRSTUVWYYZ<br>
                                 abcdefghijklmnopqrstuvwxyz<br>
                                 0123456789
