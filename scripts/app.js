@@ -94,7 +94,7 @@ var app = new Vue({
                         <div class="line">
 
                             <div v-for="color in project.colors" class="unit">
-                                <div class="square"></div>
+                                <div class="square" v-bind:style="{backgroundColor:color}"></div>
                                 <div class="ref">
                                     <span>
                                         {{ color }}
