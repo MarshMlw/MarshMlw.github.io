@@ -155,7 +155,7 @@ var app = new Vue({
     // Method that run after the creation of the Vue instance
     created: function () {
         // Request the projects data
-        axios.get('https://api.myjson.com/bins/ltxyc')
+        axios.get('https://api.myjson.com/bins/1aufsa')
             .then(function (response) {
                 // handle success
                 app.projects = response.data
