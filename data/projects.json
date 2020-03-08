@@ -16,24 +16,23 @@
             "#D8D8D6"
         ],
         "images" : {
-            "logo" : "./data/projects/the-calin/images/top.jpg",
             "top" : "./data/projects/the-calin/images/top.jpg",
             "left" : "./data/projects/the-calin/images/left.jpg",
             "right" : "./data/projects/the-calin/images/right.jpg"
         },
         "fonts" : {
             "main" : {
-                "name" : "abhaya-libre",
+                "name" : "Abhaya Libre",
                 "slug" : "./data/projects/the-calin/fonts/abhaya-libre/abhaya-libre.ttf"
             },
             "secondary" : {
-                "name" : "hk-grotesk",
+                "name" : "HK Grotesk",
                 "slug" : "./data/projects/the-calin/fonts/hk-grotesk/hk-grotesk.ttf"
             }
         }
     },
     "lesAffranchis" : {
-        "public" : false,
+        "public" : true,
         "category" : "web",
         "slug": "lesAffranchis",
         "title" : "Les Affranchis",
@@ -47,18 +46,17 @@
             "#008384"
         ],
         "images": {
-            "logo": "./data/projects/les-affranchis/images/top.jpg",
             "top": "./data/projects/les-affranchis/images/top.jpg",
             "left": "./data/projects/les-affranchis/images/left.jpg",
             "right": "./data/projects/les-affranchis/images/right.jpg"
         },
         "fonts": {
             "main": {
-                "name": "dker-poster",
+                "name": "Dker Poster",
                 "slug": "./data/projects/les-affranchis/fonts/dker-poster/dker-poster.ttf"
             },
             "secondary": {
-                "name": "open-sans",
+                "name": "Open Sans",
                 "slug": "./data/projects/les-affranchis/fonts/open-sans/open-sans.ttf"
             }
         }
@@ -78,14 +76,13 @@
             "#2C3288"
         ],
         "images" : {
-            "logo": "./data/projects/malika-favre/images/top.jpg",
             "top" : "./data/projects/malika-favre/images/top.jpg",
             "left" : "./data/projects/malika-favre/images/left.jpg",
             "right" : "./data/projects/malika-favre/images/right.jpg"
         },
         "fonts" : {
             "main" : {
-                "name" : "open-sans",
+                "name" : "Open Sans",
                 "slug" : "./data/projects/malika-favre/fonts/open-sans/open-sans.ttf"
             },
             "secondary": null
@@ -106,18 +103,17 @@
             "#FFFFFF"
         ],
         "images" : {
-            "logo": "./data/projects/ma-vraie-nature/images/top.jpg",
             "top" : "./data/projects/ma-vraie-nature/images/top.jpg",
             "left" : "./data/projects/ma-vraie-nature/images/left.jpg",
             "right" : "./data/projects/ma-vraie-nature/images/right.jpg"
         },
         "fonts" : {
             "main" : {
-                "name" : "playfair-display",
+                "name" : "Playfair Display",
                 "slug" : "./data/projects/ma-vraie-nature/fonts/playfair-display/playfair-display.ttf"
             },
             "secondary" : {
-                "name" : "open-sans",
+                "name" : "Open Sans",
                 "slug" : "./data/projects/ma-vraie-nature/fonts/open-sans/open-sans.ttf"
             }
         }
@@ -137,24 +133,23 @@
             "#3096AF"
         ],
         "images" : {
-            "logo": "./data/projects/dauphins-mayennais/images/top.jpg",
             "top" : "./data/projects/dauphins-mayennais/images/top.jpg",
             "left" : "./data/projects/dauphins-mayennais/images/left.jpg",
             "right" : "./data/projects/dauphins-mayennais/images/right.jpg"
         },
         "fonts" : {
             "main" : {
-                "name" : "crapaud",
+                "name" : "Crapaud",
                 "slug" : "./data/projects/dauphins-mayennais/fonts/crapaud/crapaud.ttf"
             },
             "secondary" : {
-                "name" : "open-sans",
+                "name" : "Open Sans",
                 "slug" : "./data/projects/dauphins-mayennais/fonts/open-sans/open-sans.ttf"
             }
         }
     },
     "ecoleTogo" : {
-        "public" : false,
+        "public" : true,
         "category" : "web",
         "slug": "ecoleTogo",
         "title" : "Ecole Togo",
@@ -168,18 +163,17 @@
             "#3AB3AD"
         ],
         "images" : {
-            "logo": "./data/projects/ecole-togo/images/top.jpg",
             "top" : "./data/projects/ecole-togo/images/top.jpg",
             "left" : "./data/projects/ecole-togo/images/left.jpg",
             "right" : "./data/projects/ecole-togo/images/right.jpg"
         },
         "fonts" : {
             "main" : {
-                "name" : "nunito-sans",
+                "name" : "Nunito Sans",
                 "slug" : "./data/projects/ecole-togo/fonts/unito-sans/unito-sans.ttf"
             },
             "secondary" : {
-                "name" : "nunito",
+                "name" : "Nunito",
                 "slug" : "./data/projects/ecole-togo/fonts/nunito/nunito.ttf"
             }
         }
@@ -198,24 +192,23 @@
             "#FFFFFF"
         ],
         "images" : {
-            "logo": "./data/projects/vahalla-piercing/images/top.jpg",
             "top" : "./data/projects/vahalla-piercing/images/top.jpg",
             "left" : "./data/projects/vahalla-piercing/images/left.jpg",
             "right" : "./data/projects/vahalla-piercing/images/right.jpg"
         },
         "fonts" : {
             "main" : {
-                "name" : "vikings",
+                "name" : "Vikings",
                 "slug" : "./data/projects/vahalla-piercing/fonts/vikings/vikings.ttf"
             },
             "secondary" : {
-                "name" : "impact",
+                "name" : "Impact",
                 "slug" : "./data/projects/vahalla-piercings/fonts/impact/impact.ttf"
             }
         }
     },
     "pierreEtLeLoup" : {
-        "public" : false,
+        "public" : true,
         "category" : "print",
         "slug": "pierreEtLeLoup",
         "title" : "Pierre et le Loup",
@@ -229,24 +222,23 @@
             "#1D1D1B"
         ],
         "images" : {
-            "logo": "./data/projects/pierre-et-le-loup/images/top.jpg",
             "top" : "./data/projects/pierre-et-le-loup/images/top.jpg",
             "left" : "./data/projects/pierre-et-le-loup/images/left.jpg",
             "right" : "./data/projects/pierre-et-le-loup/images/right.jpg"
         },
         "fonts" : {
             "main" : {
-                "name" : "caflish-script",
+                "name" : "Caflish Script",
                 "slug" : "./data/projects/pierre-et-le-loup/fonts/caflish-script/caflish-script.ttf"
             },
             "secondary" : {
-                "name" : "raleway",
+                "name" : "Raleway",
                 "slug" : "./data/projects/pierre-et-le-loup/fonts/raleway/raleway.ttf"
             }
         }
     },
     "relaisSaintMedard" : {
-        "public" : false,
+        "public" : true,
         "category" : "print",
         "slug": "relaisSaintMedard",
         "title" : "Relais Saint-Médard",
@@ -260,18 +252,17 @@
             "#D8D8D6"
         ],
         "images" : {
-            "logo": "./data/projects/relais-saint-medard/images/top.jpg",
             "top" : "./data/projects/relais-saint-medard/images/top.jpg",
             "left" : "./data/projects/relais-saint-medard/images/left.jpg",
             "right" : "./data/projects/relais-saint-medard/images/right.jpg"
         },
         "fonts" : {
             "main" : {
-                "name" : "nunito",
+                "name" : "Nunito",
                 "slug" : "./data/projects/relais-saint-medard/fonts/nunito/nunito.ttf"
             },
             "secondary" : {
-                "name" : "chelsa",
+                "name" : "Chelsa",
                 "slug" : "./data/projects/relais-saint-medard/fonts/chelsa/chelsa.ttf"
             }
         }
@@ -291,21 +282,20 @@
             "#FFFFFF"
         ],
         "images": {
-            "logo": "./data/projects/mastermind/images/top.jpg",
             "top": "./data/projects/mastermind/images/top.jpg",
             "left": "./data/projects/mastermind/images/left.jpg",
             "right": "./data/projects/mastermind/images/right.jpg"
         },
         "fonts": {
             "main": {
-                "name": "quicksand",
+                "name": "Quicksand",
                 "slug": "./data/projects/mastermind/fonts/quicksand/quicksand.ttf"
             },
             "secondary": null
         }
     },
     "aeromodelisme53": {
-        "public": true,
+        "public": false,
         "category": "print",
         "slug": "aeromodelisme53",
         "title": "Aéromodélisme 53",
@@ -318,14 +308,13 @@
             "#C2C8CF"
         ],
         "images": {
-            "logo": "./data/projects/aeromodelisme-53/images/top.jpg",
             "top": "./data/projects/aeromodelisme-53/images/top.jpg",
             "left": "./data/projects/aeromodelisme-53/images/left.jpg",
             "right": "./data/projects/aeromodelisme-53/images/right.jpg"
         },
         "fonts": {
             "main": {
-                "name": "century-gothic",
+                "name": "Century-gothic",
                 "slug": "./data/projects/aeromodelisme-53/fonts/century-gothic/century-gothic.ttf"
             },
             "secondary": null
