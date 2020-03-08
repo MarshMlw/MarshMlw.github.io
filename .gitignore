@@ -1,8 +1,3 @@
-/_Dev
-/.documentation
 /node_modules
-/old
-/ressources
 /.scannerwork
-package-lock.json
-package.json
+/_documentation
