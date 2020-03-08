@@ -109,8 +109,10 @@ var app = new Vue({
                             Fonts
                         </h3>
 
+                        <link rel="stylesheet" v-bind:href="project.fontPath" />
+
                         <div class="line">
-                            <p>
+                            <p v-bind:style="{fontFamily:project.fonts.main.name}">
                                 {{ this.project.fonts.main.name }}
                             </p>
                             <span>
@@ -121,7 +123,7 @@ var app = new Vue({
                         </div>
 
                         <div v-if="project.fonts.secondary != null" class="line">
-                            <p>
+                            <p v-bind:style="{fontFamily:project.fonts.secondary.name}">
                                 {{ this.project.fonts.secondary.name }}
                             </p>
                             <span>
@@ -154,7 +156,7 @@ var app = new Vue({
     // Method that run after the creation of the Vue instance
     created: function () {
         // Request the projects data
-        axios.get('https://api.myjson.com/bins/1aufsa')
+        axios.get('https://api.myjson.com/bins/1aktc2')
             .then(function (response) {
                 // handle success
                 app.projects = response.data

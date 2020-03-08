@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Impact";
+    src: url("./impact/impact.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Vikings";
+    src: url("./vikings/vikings.woff2") format("woff2");
+}

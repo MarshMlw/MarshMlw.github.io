@@ -20,6 +20,7 @@
             "left" : "./data/projects/the-calin/images/left.jpg",
             "right" : "./data/projects/the-calin/images/right.jpg"
         },
+        "fontPath": "./data/projects/the-calin/fonts/font.css",
         "fonts" : {
             "main" : {
                 "name" : "Abhaya Libre",
@@ -50,6 +51,7 @@
             "left": "./data/projects/les-affranchis/images/left.jpg",
             "right": "./data/projects/les-affranchis/images/right.jpg"
         },
+        "fontPath": "./data/projects/les-affranchis/fonts/font.css",
         "fonts": {
             "main": {
                 "name": "Dker Poster",
@@ -80,6 +82,7 @@
             "left" : "./data/projects/malika-favre/images/left.jpg",
             "right" : "./data/projects/malika-favre/images/right.jpg"
         },
+        "fontPath": "./data/projects/malika-favre/fonts/font.css",
         "fonts" : {
             "main" : {
                 "name" : "Open Sans",
@@ -107,6 +110,7 @@
             "left" : "./data/projects/ma-vraie-nature/images/left.jpg",
             "right" : "./data/projects/ma-vraie-nature/images/right.jpg"
         },
+        "fontPath": "./data/projects/ma-vraie-nature/fonts/font.css",
         "fonts" : {
             "main" : {
                 "name" : "Playfair Display",
@@ -137,6 +141,7 @@
             "left" : "./data/projects/dauphins-mayennais/images/left.jpg",
             "right" : "./data/projects/dauphins-mayennais/images/right.jpg"
         },
+        "fontPath": "./data/projects/dauphins-mayennais/fonts/font.css",
         "fonts" : {
             "main" : {
                 "name" : "Crapaud",
@@ -167,6 +172,7 @@
             "left" : "./data/projects/ecole-togo/images/left.jpg",
             "right" : "./data/projects/ecole-togo/images/right.jpg"
         },
+        "fontPath": "./data/projects/ecole-togo/fonts/font.css",
         "fonts" : {
             "main" : {
                 "name" : "Nunito Sans",
@@ -196,6 +202,7 @@
             "left" : "./data/projects/vahalla-piercing/images/left.jpg",
             "right" : "./data/projects/vahalla-piercing/images/right.jpg"
         },
+        "fontPath": "./data/projects/vahalla-piercing/fonts/font.css",
         "fonts" : {
             "main" : {
                 "name" : "Vikings",
@@ -226,6 +233,7 @@
             "left" : "./data/projects/pierre-et-le-loup/images/left.jpg",
             "right" : "./data/projects/pierre-et-le-loup/images/right.jpg"
         },
+        "fontPath": "./data/projects/pierre-et-le-loup/fonts/font.css",
         "fonts" : {
             "main" : {
                 "name" : "Caflish Script",
@@ -256,6 +264,7 @@
             "left" : "./data/projects/relais-saint-medard/images/left.jpg",
             "right" : "./data/projects/relais-saint-medard/images/right.jpg"
         },
+        "fontPath": "./data/projects/relais-saint-medard/fonts/font.css",
         "fonts" : {
             "main" : {
                 "name" : "Nunito",
@@ -286,6 +295,7 @@
             "left": "./data/projects/mastermind/images/left.jpg",
             "right": "./data/projects/mastermind/images/right.jpg"
         },
+        "fontPath": "./data/projects/mastermind/fonts/font.css",
         "fonts": {
             "main": {
                 "name": "Quicksand",
@@ -312,6 +322,7 @@
             "left": "./data/projects/aeromodelisme-53/images/left.jpg",
             "right": "./data/projects/aeromodelisme-53/images/right.jpg"
         },
+        "fontPath": "./data/projects/aeromodelisme-53/fonts/font.css",
         "fonts": {
             "main": {
                 "name": "Century-gothic",

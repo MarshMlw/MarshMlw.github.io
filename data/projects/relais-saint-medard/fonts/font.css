@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Chelsea";
+    src: url("./chelsea/chelsea.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Nunito";
+    src: url("./nunito/nunito.woff2") format("woff2");
+}
