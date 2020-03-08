@@ -38,7 +38,7 @@ var app = new Vue({
         <li v-if="project.public" v-for="project in projects" v-on:click="getProject(project.slug)"
             class="uk-card uk-card-default uk-card-body" v-bind:slug="project.slug"
             v-bind:data-category="project.category">
-            <img v-bind:src="project.images.logo" v-bind:alt="project.slug">
+            <img v-bind:src="project.images.top" v-bind:alt="project.slug">
         </li>
 
     </ul>
