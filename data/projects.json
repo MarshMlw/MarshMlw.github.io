@@ -236,7 +236,7 @@
         "fontPath": "./data/projects/pierre-et-le-loup/fonts/font.css",
         "fonts" : {
             "main" : {
-                "name" : "Caflish Script",
+                "name" : "Caflisch Script",
                 "slug" : "./data/projects/pierre-et-le-loup/fonts/caflish-script/caflish-script.ttf"
             },
             "secondary" : {
@@ -271,8 +271,8 @@
                 "slug" : "./data/projects/relais-saint-medard/fonts/nunito/nunito.ttf"
             },
             "secondary" : {
-                "name" : "Chelsa",
-                "slug" : "./data/projects/relais-saint-medard/fonts/chelsa/chelsa.ttf"
+                "name" : "Chelsea",
+                "slug" : "./data/projects/relais-saint-medard/fonts/chelsa/chelsea.ttf"
             }
         }
     },
