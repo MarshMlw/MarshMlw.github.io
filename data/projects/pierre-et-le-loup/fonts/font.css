@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Caflisch Script";
+    src: url("./caflisch-script/caflisch-script.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Raleway";
+    src: url("./raleway/raleway.woff2") format("woff2");
+}

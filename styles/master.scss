@@ -231,109 +231,139 @@ textarea {
 
 // Project Display --------------------
 
-.project-card {
-
-    &:hover {
-        cursor: pointer;
+.uk-modal-body {
+    padding:0;
+    *{
+        font-family: $nunito;
+        color: #000;
     }
 }
 
-#project-display {
-    display: none;
-    position: fixed;
-    width: 100vw;
-    height: 100vh;
-    z-index: 300;
-    background-color: rgba(33, 33, 33, 0.6);
-    padding: 5vh 5vw;
-}
-
-#project-display.project-mode {
-    display: block;
-}
-
-.display-wrapper {
-    width: 90vw;
-    height: 90vh;
-    margin: 0 auto;
-    padding: 5vh 5vw;
-}
-
-#project-content {
-    width: auto;
-    //height: 80vh;
-    margin: 0 auto;
-    padding: 5vh 5vw;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-#displayed-project {
-    width: 70vw;
-    height: 70vh;
-    margin: 0 auto;
-    background-color: #fff;
-    padding: 20px;
-
+.top, .bottom {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: end;
     img {
         width: 100%;
-        height: 100%;
-        object-fit: contain;
     }
-}
+}   
 
-#displayed-project.planche {
-    width: 70vw;
-    height: 70vh;
-    margin: 0 auto;
-    background-color: #fff;
-    padding: 20px;
-    overflow: scroll;
-    position: relative;
+.top {
+    padding-bottom: 20px;
 
-    img {
-        width: 100%;
-        height: auto;
-        object-fit: initial;
+    .left {
+        width: 60%;
+        .visual {
+            height: 347px;
+            img{
+            object-fit: cover;
+            width: 100%;
+            height: 100%;
+            }
+        }
     }
-
-    .linkToMaquette {
-        position: absolute;
-        top: 0%;
-        width: 100%;
-        padding: 30px;
-        margin-left: -15px;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        transition: all 0.30s ease-in-out;
-
-        a {
-            font-family: $kgs;
-            text-decoration: none;
-            color: $black;
-            font-size: 24px;
-            background-color: $yellow;
-            padding: 10px;
+    .right {
+        width: 40%;
+        align-self: center;
+        padding: 0 40px;
+        h2 {
+            text-align: left;
+            font-size:35px;
+            font-weight: 900;
+            letter-spacing: normal;
+            text-transform: uppercase;
+            line-height: 28px;
+            &:after{
+                display:none;
+            }
+        }
+        .context{
+            font-size: 18px;
+            font-weight: 400;
+        }
+        .content{
+            font-size: 14px;
+            font-weight: 200;
         }
     }
 }
 
-.hvr-ripple-out:before {
-    border: #fff100 solid 6px!important;
+.bottom {
+        align-items: stretch;
+    .left{
+        width: 30%;
+        .visual {
+            padding: 0 0 20px 20px;
+            height: 100%;
+            img{
+                object-fit: cover;
+                height: 100%;
+            }
+        }
+    }
+    .middle{
+        width: 30%;
+        padding: 0 30px 20px 30px;
+        h3{
+            font-size: 25px;
+            font-weight: 900;
+            margin-bottom: 10px;
+        }
+    }
+    
+    .right{
+        width: 40%;
+        .visual {
+            height: 100%;
+            img{
+                object-fit: cover;
+                height: 100%;
+            }
+        }
+    }
 }
 
-#close {
-    position: absolute;
-    top: 50px;
-    left: 50px;
-    width: 100%;
-    height: 10%;
-    flex: 0 0 auto;
-    z-index: 300;
+.colors {
+    margin-bottom: 20px;
+    .line{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        .unit {
+            width: 33.33333%;
+            margin-right: 10px;
+            .ref{
+                font-size: 14px;
+                font-weight: 500;
+            }
+            &:last-child {
+                margin-right: 0px;
+            }
+        }
+    }
+}
+
+.fonts {
+    .line {
+        p {
+            font-size: 20px;
+        }
+        span {
+            font-size: 14px;
+        }
+    }
+}
+
+.square {
+    position: relative;
+    background-color: red;
+    &:after {
+        content: "";
+        display: block;
+        padding-bottom: 100%;
+    }
 }
 
 // Off-canevas --------------------
@@ -350,7 +380,7 @@ textarea {
     position: fixed;
     width: 100%;
     height: 100vh;
-    z-index: 2;
+    z-index: 50;
     transform: translateX(-100%);
     transition: all 0.25s ease-in-out;
     background-color: #fff;
@@ -499,18 +529,39 @@ nav {
 }
 
 .uk-card-default {
-    max-height: 500px;
-    overflow: hidden;
+    height: 300px;
 
-    img {
-
-        transition: 0.15s ease-in-out;
-        filter: saturate(0%);
-
-        &:hover {
-            filter: saturate(100%);
+    .tile-img-top {
+        position: relative;
+        .tile-img-top__img-block {
+            position: relative;
+            display: block;
+            max-width: 386px;
+            border-radius: 4px;
+            overflow: hidden;
+            &.tile-img-top__img-block_animate {
+            transition: transform .3s, box-shadow .4s;
+            &:hover {
+                transform: perspective(1px) scale(1.048);
+                .label {
+                transform: perspective(1px) translateZ(0);
+                }
+                img {
+                transform: perspective(1px) scale(1.1);
+                }
+            }
+            }
+            img {
+            max-width: 386px;
+            width: 100%;
+            height: auto;
+            display: block;
+            border-radius: 4px;
+            transition: transform .3s;
+            }
         }
     }
+    
 }
 
 // Section About --------------------

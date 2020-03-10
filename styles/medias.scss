@@ -201,20 +201,109 @@
     }
 }
 
-@media screen and (max-width: 1001px) {
+@media screen and (max-width: 1251px) {
 
-    .filters {
-        flex-direction: column;
-
-        li {
-            margin-right: 0px;
-            margin-bottom: 15px;
-
-            &:last-child {
-                margin-bottom: none;
+    .uk-modal-body {
+        h2 {
+            margin-bottom: 0px!important;
+        }
+        .top {
+            .left,
+            .right {
+                width: 50%;
             }
         }
     }
+}
+
+@media screen and (max-width: 934px) {
+
+    .uk-modal-body {
+        .top {
+            flex-direction: column;
+            align-items: center;
+            padding-bottom: 0px;
+            
+            .left {
+                order: 2;
+                width: 80%;
+            }
+
+            .right {
+                padding: 30px 0px;
+                order: 1;
+                width: 80%;
+            }
+        }
+        .bottom {
+            flex-direction: column;
+
+            .left {
+                margin: 0 auto;
+                order: 1;
+                width: 80%;
+
+                .visual {
+                    padding: 0px;
+                }
+            }
+
+            .middle {
+                margin: 0 auto;
+                order: 3;
+                width: 80%;
+                margin-bottom: 30px;
+            }
+
+            .right {
+                margin: 0 auto;
+                order: 2;
+                width: 80%;
+                margin-bottom: 30px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    #project-grid {
+        margin: 0 auto;
+    }
+
+    .uk-modal-body {
+        .top {
+            
+            .left {
+                width: 100%;
+            }
+        }
+        .bottom {
+
+            .left {
+                width: 100%;
+            }
+
+            .right {
+                width: 100%;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    .uk-modal-body {
+        .bottom {
+
+            .middle {
+                padding: 0px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 1001px) {
 
     .module-wrapper {
         width: 80%;
@@ -233,6 +322,8 @@
         margin: 0 auto;
     }
 }
+
+
 
 @media screen and (max-width: 801px) {
 
@@ -333,6 +424,29 @@
 
     .legal {
         font-size: 14px;
+    }
+
+    .filters {
+        flex-direction: column;
+
+        li {
+            margin-right: 0px;
+            margin-bottom: 15px;
+
+            &:last-child {
+                margin-bottom: none;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    #project-grid {
+        li {
+            width: 100%;
+            margin-top: 0px;
+        }
     }
 }
 

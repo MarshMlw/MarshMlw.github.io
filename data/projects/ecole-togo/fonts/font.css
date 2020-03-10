@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Nunito";
+    src: url("./nunito/nunito.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Nunito Sans";
+    src: url("./nunito-sans/nunito-sans.woff2") format("woff2");
+}
