@@ -11,6 +11,7 @@ var app = new Vue({
     },
     methods: {
         getProject: function (slug) {
+            app.project = null;
             if (app.projects[slug] != null)
             {
                 app.project = app.projects[slug];
@@ -38,7 +39,11 @@ var app = new Vue({
         <li v-if="project.public" v-for="project in projects" v-on:click="getProject(project.slug)"
             class="uk-card uk-card-default uk-card-body" v-bind:slug="project.slug"
             v-bind:data-category="project.category">
-            <img v-bind:src="project.images.top" v-bind:alt="project.slug">
+            <div class="tile-img-top">
+                <div class="tile-img-top__img-block tile-img-top__img-block_animate">
+                    <img v-bind:src="project.images.top" v-bind:alt="project.slug">
+                </div>
+            </div>
         </li>
 
     </ul>
