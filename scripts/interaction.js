@@ -35,7 +35,7 @@ $(document).ready(function () {
     });
     links.click(function () {
         offCanevas.toggleClass('visible');
-    })
+    });
 
     function getAge(dateString) {
         var today = new Date();
