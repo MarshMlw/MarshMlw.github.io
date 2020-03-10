@@ -141,6 +141,8 @@
       margin-bottom: 30px; } }
 
 @media screen and (max-width: 600px) {
+  #project-grid {
+    margin: 0 auto; }
   .uk-modal-body .top .left {
     width: 100%; }
   .uk-modal-body .bottom .left {
