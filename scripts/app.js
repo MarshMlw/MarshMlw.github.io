@@ -50,7 +50,7 @@ var app = new Vue({
 
     <div v-if="single" id="modal-project" class="uk-modal-container" uk-modal>
         <div class="uk-modal-dialog uk-modal-body">
-
+            <button class="uk-modal-close-default" type="button" uk-close></button>
             <div class="top">
 
                 <div class="left">
