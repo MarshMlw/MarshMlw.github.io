@@ -51,4 +51,8 @@ $(document).ready(function () {
     $age = $('#age');
     $age.text(getAge("1994/03/27"));
 
+    var lazyLoadInstance = new LazyLoad({
+        elements_selector: ".lazy"
+    });
+
 });

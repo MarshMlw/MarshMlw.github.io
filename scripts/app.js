@@ -41,7 +41,7 @@ var app = new Vue({
             v-bind:data-category="project.category">
             <div class="tile-img-top">
                 <div class="tile-img-top__img-block tile-img-top__img-block_animate">
-                    <img v-bind:src="project.images.top" v-bind:alt="project.slug">
+                    <img v-bind:src="project.images.top" class="lazy" v-bind:alt="project.slug">
                 </div>
             </div>
         </li>
